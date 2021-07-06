@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  🚀  Estudando: <strong>JavaScript e Kotlin.</strong>
+  🚀  Estudando: <strong>Kotlin e padrão MVVM</strong>
 </p>
 
 <p align="center">
