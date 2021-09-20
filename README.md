@@ -5,7 +5,7 @@
 </span>
 <p align="left">
   Me chamo Ramir Junior e sou <strong>Estudante de Sistemas de Informação</strong> na PUC Minas São Gabriel - Belo Horizonte / MG.
-  Sou amante de tecnologias JAVA e pretendo seguir carreira com desenvolvimento mobile e me tornar um especialista na área.
+  Sou amante do mundo mobile e desejo seguir carreira de desenvolvimento android/ios me tornar um especialista na área.
 </p>
 <div align="center">
 <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="400px" />
@@ -13,11 +13,11 @@
 
 
 <p align="center">
-  💼 Habilidades: <strong>GitHub, Webdesign, Lógica computacional.</strong>
+  💼 Habilidades: <strong>Kotlin, Android Studio, Firebase, Constraint Layouts, RecyclerView, Git.</strong>
 </p>
 
 <p align="center">
-  🚀  Estudando: <strong>Kotlin e padrão MVVM</strong>
+  🚀  Estudando: <strong>API e padrão MVVM</strong>
 </p>
 
 <p align="center">
