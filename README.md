@@ -61,13 +61,11 @@
 <h3 align="center">⭐ GitHub Stats</h3>
 
 <p>
-    <img align="left" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramirjunior&langs_count=8&layout=compact&theme=blueberry" alt="Ramir Junior :: Top Langs" />
+    <img align="right" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramirjunior&langs_count=8&layout=compact&theme=blueberry" alt="Ramir Junior :: Top Langs" />
     <img align="right"  src="https://github-readme-stats.vercel.app/api?username=ramirjunior&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" alt="Ramir Junior :: Top Langs" />
 </p>
-
-
-
-<h3>⬇️ Saiba mais</h3> 
+<br/>
+<h3>Saiba mais</h3> 
 
 <details>
 
