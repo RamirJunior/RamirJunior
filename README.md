@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/junior.ribeiro0/"/></a>
      <br/>
     <h3 align="center">Tecnologias</h3>
-    <img alt="Kotlin" fill="#FCE000" width="35px" src="assets/kotlin.svg" />
+    <img alt="Kotlin" width="35px" src="assets/kotlin.svg" />
     <img alt="Java" width="35px" src="assets/java.svg" />
     <img alt="HTML5" width="35px" src="assets/html5.svg" />
     <img alt="CSS3" width="35px" src="assets/css3.svg" />
@@ -45,7 +45,7 @@
     <img alt="Firebase" width="35px" src="assets/firebase.svg" />
     <img alt="SQLite" width="35px" src="assets/sqlite.svg" />
     <br/><br/> 
-    <img alt="Android Studio" color="#FCE000" width="35px" src="assets/androidstudio.svg" />
+    <img alt="Android Studio" width="35px" src="assets/androidstudio.svg" />
     <img alt="Visual Studio Code" width="35px" src="assets/visualstudiocode.svg" />
     <img alt="Git" width="35px" src="assets/git.svg" />
     <img alt="Github" width="35px" src="assets/github.svg" />    
