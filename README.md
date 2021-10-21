@@ -45,14 +45,14 @@
     <img alt="HTML5" width="35px" src="assets/html5.svg" />
     <img alt="CSS3" width="35px" src="assets/css3.svg" />
     <img alt="Javascript" width="35px" src="assets/javascript.svg" />
-    <img alt="Bootstrap" width="35px" src="assets/bootstrap.svg" />  |  
+    <img alt="Bootstrap" width="35px" src="assets/bootstrap.svg" />  -  
     <img alt="Firebase" width="35px" src="assets/firebase.svg" />
     <img alt="SQLite" width="35px" src="assets/sqlite.svg" />
     <br/><br/> 
     <img alt="Android Studio" color="#FCE000" width="35px" src="assets/androidstudio.svg" />
     <img alt="Visual Studio Code" width="35px" src="assets/visualstudiocode.svg" />
     <img alt="Git" width="35px" src="assets/git.svg" />
-    <img alt="Github" width="35px" src="assets/github.svg" />  |  
+    <img alt="Github" width="35px" src="assets/github.svg" />  -  
     <img alt="Adobe Photoshop" width="35px" src="assets/adobephotoshop.svg" />
     <img alt="Adobe Illustrator" width="35px" src="assets/adobeillustrator.svg" />
     <img alt="Adobe Photoshop" width="35px" src="assets/adobeaftereffects.svg" />
@@ -72,11 +72,9 @@
 
 
 
-### Saiba mais ⬇️
+### ⬇️ Saiba mais 
 
 <details>
-    <h2> <summary> 📃 Curriculum </summary> </h3>
-
 
 ## Educação
 
@@ -99,3 +97,5 @@
 - :es: Espanhol
 
   :arrow_upper_right: Intermediário
+  
+  </details>
