@@ -1,6 +1,6 @@
 <span align="center">
 
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá seja bem-vindo(a)!</h2>
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Olá seja bem-vindo(a)!
 
 </span>
 
@@ -10,11 +10,9 @@
 <strong>Vamos de café pra esse papo?</strong><br/>
 </p>
 <div align="center">
-<img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="400px" />
+<img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="600px" />
 </div>
-
-
-
+<br/>
 <p align="center">
   💼 Habilidades: <strong>Kotlin, Android Studio, Firebase Realtime,<br>Constraint Layouts, RecyclerView, Retrofit, Git/Github/Bitbucket.</strong>
 </p>
@@ -22,7 +20,7 @@
 <p align="center">
   🚀  Estudando: <strong>Compose Jetpack</strong>
 </p>
-
+<br/>
 <h3 align="center">Você pode me encontrar em</h3>
 
 <div align="center">
@@ -39,20 +37,20 @@
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/junior.ribeiro0/"/></a>
      <br/>
      <br/>
-    <h3>Tecnologias</h3>
+    <h3 align="center">Tecnologias</h3>
     <img alt="Kotlin" fill="#FCE000" width="35px" src="assets/kotlin.svg" />
     <img alt="Java" width="35px" src="assets/java.svg" />
     <img alt="HTML5" width="35px" src="assets/html5.svg" />
     <img alt="CSS3" width="35px" src="assets/css3.svg" />
     <img alt="Javascript" width="35px" src="assets/javascript.svg" />
-    <img alt="Bootstrap" width="35px" src="assets/bootstrap.svg" />  -  
+    <img alt="Bootstrap" width="35px" src="assets/bootstrap.svg" />    
     <img alt="Firebase" width="35px" src="assets/firebase.svg" />
     <img alt="SQLite" width="35px" src="assets/sqlite.svg" />
     <br/><br/> 
     <img alt="Android Studio" color="#FCE000" width="35px" src="assets/androidstudio.svg" />
     <img alt="Visual Studio Code" width="35px" src="assets/visualstudiocode.svg" />
     <img alt="Git" width="35px" src="assets/git.svg" />
-    <img alt="Github" width="35px" src="assets/github.svg" />  -  
+    <img alt="Github" width="35px" src="assets/github.svg" />    
     <img alt="Adobe Photoshop" width="35px" src="assets/adobephotoshop.svg" />
     <img alt="Adobe Illustrator" width="35px" src="assets/adobeillustrator.svg" />
     <img alt="Adobe Photoshop" width="35px" src="assets/adobeaftereffects.svg" />
@@ -63,7 +61,7 @@
 
 <p align="center">
 
-## ⭐ GitHub Stats
+<h3 align="center">⭐ GitHub Stats</h3>
 
 <p align="center">
     <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramirjunior&langs_count=8&layout=compact&theme=blueberry" alt="Ramir Junior :: Top Langs" />
@@ -72,7 +70,7 @@
 
 
 
-### ⬇️ Saiba mais 
+<h3>⬇️ Saiba mais</h3> 
 
 <details>
 
