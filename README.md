@@ -64,7 +64,6 @@
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramirjunior&langs_count=8&layout=compact&theme=blueberry" alt="Ramir Junior :: Top Langs" />
     <img src="https://github-readme-stats.vercel.app/api?username=ramirjunior&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" alt="Ramir Junior :: Top Langs" />
 </p>
-<br/>
 <h3>Saiba mais</h3> 
 
 <details>
