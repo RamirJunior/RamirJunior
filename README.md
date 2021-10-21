@@ -6,11 +6,11 @@
 
 <p align="center">
   Me chamo <strong>Ramir Junior</strong>, sou apaixonado pelo mundo mobile.<br/>
-    Desejo seguir carreira de desenvolvimento<br>e me tornar um especialista na área.<br/>
+    Desejo seguir carreira de desenvolvimento e me tornar um especialista na área.<br/>
 <strong>Vamos de café pra esse papo?</strong><br/>
 </p>
 <div align="center">
-<img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="600px" />
+<img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500px" />
 </div>
 <br/>
 <p align="center">
@@ -60,7 +60,7 @@
 
 <h3 align="center">⭐ GitHub Stats</h3>
 
-<p align="center">
+<p>
     <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramirjunior&langs_count=8&layout=compact&theme=blueberry" alt="Ramir Junior :: Top Langs" />
     <img align="center"  src="https://github-readme-stats.vercel.app/api?username=ramirjunior&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" alt="Ramir Junior :: Top Langs" />
 </p>
