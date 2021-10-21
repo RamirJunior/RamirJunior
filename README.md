@@ -20,7 +20,6 @@
 <p align="center">
   🚀  Estudando: <strong>Compose Jetpack</strong>
 </p>
-<br/>
 <h3 align="center">Você pode me encontrar em</h3>
 
 <div align="center">
@@ -35,7 +34,6 @@
     </a>
     <a href="https://www.facebook.com/junior.ribeiro0/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/junior.ribeiro0/"/></a>
-     <br/>
      <br/>
     <h3 align="center">Tecnologias</h3>
     <img alt="Kotlin" fill="#FCE000" width="35px" src="assets/kotlin.svg" />
@@ -55,7 +53,6 @@
     <img alt="Adobe Illustrator" width="35px" src="assets/adobeillustrator.svg" />
     <img alt="Adobe Photoshop" width="35px" src="assets/adobeaftereffects.svg" />
     <img alt="Adobe Illustrator" width="35px" src="assets/adobepremierepro.svg" />
-    <br/>
     <br/>
 </div>
 
