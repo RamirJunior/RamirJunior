@@ -50,9 +50,9 @@
     <img title="Git" alt="Git" width="35px" src="assets/git.svg" />
     <img title="Github" alt="Github" width="35px" src="assets/github.svg" />    
     <img title="Adobe Photoshop" alt="Adobe Photoshop" width="35px" src="assets/adobephotoshop.svg" />
-    <img alt="Adobe Illustrator" width="35px" src="assets/adobeillustrator.svg" />
-    <img alt="Adobe After Effects" width="35px" src="assets/adobeaftereffects.svg" />
-    <img alt="Adobe Premiere" width="35px" src="assets/adobepremierepro.svg" />
+    <img title="Adobe Illustrator" alt="Adobe Illustrator" width="35px" src="assets/adobeillustrator.svg" />
+    <img title="Adobe After Effects" alt="Adobe After Effects" width="35px" src="assets/adobeaftereffects.svg" />
+    <img title="Adobe Premiere" alt="Adobe Premiere" width="35px" src="assets/adobepremierepro.svg" />
     <br/>
 </div>
 
