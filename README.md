@@ -36,23 +36,23 @@
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/junior.ribeiro0/"/></a>
      <br/>
     <h3 align="center">Tecnologias</h3>
-    <img alt="Kotlin" width="35px" src="assets/kotlin.svg" />
-    <img alt="Java" width="35px" src="assets/java.svg" />
-    <img alt="HTML5" width="35px" src="assets/html5.svg" />
-    <img alt="CSS3" width="35px" src="assets/css3.svg" />
-    <img alt="Javascript" width="35px" src="assets/javascript.svg" />
-    <img alt="Bootstrap" width="35px" src="assets/bootstrap.svg" />    
-    <img alt="Firebase" width="35px" src="assets/firebase.svg" />
-    <img alt="SQLite" width="35px" src="assets/sqlite.svg" />
+    <img title="Kotlin" alt="Kotlin" width="35px" src="assets/kotlin.svg" />
+    <img title="Java" alt="Java" width="35px" src="assets/java.svg" />
+    <img title="HTML5" alt="HTML5" width="35px" src="assets/html5.svg" />
+    <img title="CSS3" alt="CSS3" width="35px" src="assets/css3.svg" />
+    <img title="JavaScript" alt="Javascript" width="35px" src="assets/javascript.svg" />
+    <img title="Bootstrap" alt="Bootstrap" width="35px" src="assets/bootstrap.svg" />    
+    <img title="Firebase" alt="Firebase" width="35px" src="assets/firebase.svg" />
+    <img title="SQLite" alt="SQLite" width="35px" src="assets/sqlite.svg" />
     <br/><br/> 
-    <img alt="Android Studio" width="35px" src="assets/androidstudio.svg" />
-    <img alt="Visual Studio Code" width="35px" src="assets/visualstudiocode.svg" />
-    <img alt="Git" width="35px" src="assets/git.svg" />
-    <img alt="Github" width="35px" src="assets/github.svg" />    
-    <img alt="Adobe Photoshop" width="35px" src="assets/adobephotoshop.svg" />
+    <img title="Android Studio" alt="Android Studio" width="35px" src="assets/androidstudio.svg" />
+    <img title="Visual Studio Code" alt="Visual Studio Code" width="35px" src="assets/visualstudiocode.svg" />
+    <img title="Git" alt="Git" width="35px" src="assets/git.svg" />
+    <img title="Github" alt="Github" width="35px" src="assets/github.svg" />    
+    <img title="Adobe Photoshop" alt="Adobe Photoshop" width="35px" src="assets/adobephotoshop.svg" />
     <img alt="Adobe Illustrator" width="35px" src="assets/adobeillustrator.svg" />
-    <img alt="Adobe Photoshop" width="35px" src="assets/adobeaftereffects.svg" />
-    <img alt="Adobe Illustrator" width="35px" src="assets/adobepremierepro.svg" />
+    <img alt="Adobe After Effects" width="35px" src="assets/adobeaftereffects.svg" />
+    <img alt="Adobe Premiere" width="35px" src="assets/adobepremierepro.svg" />
     <br/>
 </div>
 
