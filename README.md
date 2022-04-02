@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  🚀  Estudando: <strong>Compose Jetpack</strong>
+  🚀  Estudando: <strong>Jetpack Compose</strong>
 </p>
 <h3 align="center">Você pode me encontrar em</h3>
 
