@@ -32,8 +32,7 @@
     <a href="https://instagram.com/junior_rbeiro"> 
         <img  alt="@junior_rbeiro | Instagram"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/junior_rbeiro"/>
     </a>
-    <a href="https://www.facebook.com/junior.ribeiro0/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/junior.ribeiro0/"/></a>
+    
      <br/>
     <h3 align="center">Tecnologias</h3>
     <img title="Kotlin" alt="Kotlin" width="35px" src="assets/kotlin.svg" />
