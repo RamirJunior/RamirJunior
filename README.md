@@ -1,29 +1,85 @@
-<span align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=Wave&color=0f9d58&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>&nbsp;
 
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Olá seja bem-vindo(a)!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0f9d58&size=35&center=true&vCenter=true&width=1000&lines=Hey+what's+up?;My+name+is+Ramir+Jr.;I'm+a+passionate+Android+developer.;I'm+a+brazilian+Information+System+student+too.;You+are+welcome+to+my+Github+profile+:%29)](https://git.io/typing-svg)&nbsp;
 
-</span>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RamirJunior&show_icons=true&count_private=true&hide_border=true&title_color=0f9d58&icon_color=0f9d58&text_color=c9d1d9&bg_color=0d1117" alt="Emerson Pereira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamirJunior&layout=compact&hide_border=true&title_color=0f9d58&text_color=0f9d58&bg_color=0d1117" />
 
-<p align="center">
-  Me chamo <strong>Ramir Junior</strong>, sou apaixonado pelo mundo mobile.<br/>
-    Desejo seguir carreira de desenvolvimento e me tornar um especialista na área.<br/>
-<strong>Vamos de café pra esse papo?</strong><br/>
-</p>
-<div align="center">
-<img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500px" />
-</div>
-<br/>
-<p align="center">
-  💼 Habilidades: <strong>Kotlin, Android Studio, Firebase Realtime,<br>Constraint Layouts, RecyclerView, Retrofit, Git/Github/Bitbucket.</strong>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RamirJunior&theme=dark)](https://git.io/streak-stats)
+</div>&nbsp;
 
-<p align="center">
-  🚀  Estudando: <strong>Jetpack Compose</strong>
-</p>
-<h3 align="center">Você pode me encontrar em</h3>
 
-<div align="center">
-    <a href="https://www.linkedin.com/in/ramirjunior-"> 
+================
+### Skills:
+<div style="display: inline-block">
+
+<img align = "center" alt="html5" src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117">
+
+<img align = "center" alt="html5" src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=1D6346">
+
+<img align = "center" alt="html5" src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117">
+
+<img align = "center" alt="html5" src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=5C70DB">
+
+<img align = "center" alt="html5" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+
+<img align = "center" alt="html5" src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=Firebase&logoColor=039BE5">
+
+<img align = "center" alt="html5" src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117">
+
+</div>&nbsp;
+
+### IDE/Tools:
+<div style="display: inline-block">
+
+<img align = "center" alt="html5" src="https://img.shields.io/badge/Android%20Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=0f9d58">
+
+<img align = "center" alt="html5" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+
+<img align = "center" alt="html5" src="https://img.shields.io/badge/NetBeans%20IDE-0D1117?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
+
+<img align = "center" alt="html5" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117">
+
+<img align = "center" alt="html5" src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117">
+
+<img align = "center" alt="html5" src="https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=8317e1">
+
+</div>&nbsp;
+
+### Knowledge:
+<div style="display: inline-block">
+<img align = "center" alt="html5" src="https://img.shields.io/badge/Postgresql-0D1117?style=for-the-badge&logo=postgresql&logoColor=1b7fac">
+
+<img align = "center" alt="html5" src="https://img.shields.io/badge/c%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=239120">
+
+<img align = "center" alt="html5" src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37">
+
+<img align = "center" alt="html5" src="https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=6DA55F">
+
+<img align = "center" alt="html5" src="https://img.shields.io/badge/bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=purple">
+
+</div>&nbsp;
+
+### Hard Experience with UI software:
+<div style="display: inline-block">
+
+<img align = "center" alt="html5" src="https://img.shields.io/badge/adobe%20photoshop-0D1117?style=for-the-badge&logo=adobe%20photoshop&logoColor=31A8FF">
+
+<img align = "center" alt="html5" src="https://img.shields.io/badge/adobe%20illustrator-0D1117?style=for-the-badge&logo=adobe%20illustrator&logoColor=FF9A00">
+
+<img align = "center" alt="html5" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-0D1117?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=9999FF">
+
+<img align = "center" alt="html5" src="https://img.shields.io/badge/Adobe%20After%20Effects-0D1117?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=9999FF">
+
+</div>&nbsp;
+
+#### I spoke Portuguess fluently, English (A2) and Spanish (A2)
+
+<div style="display: inline-block"; align="center">
+<h2>Redes Sociais:</h2>
+
+<a href="https://www.linkedin.com/in/ramirjunior-"> 
          <img target="_blank" alt="Ramir Junior | Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ramirjunior-" />
     </a>
     <a href="https://t.me/JRHDL"> 
@@ -34,59 +90,14 @@
     </a>
   <a href="https://www.facebook.com/junior.ribeiro0/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/junior.ribeiro0/"/></a><br/>
-    <h3 align="center">Tecnologias</h3>
-    <img title="Kotlin" alt="Kotlin" width="35px" src="assets/kotlin.svg" />
-    <img title="Java" alt="Java" width="35px" src="assets/java.svg" />
-    <img title="HTML5" alt="HTML5" width="35px" src="assets/html5.svg" />
-    <img title="CSS3" alt="CSS3" width="35px" src="assets/css3.svg" />
-    <img title="JavaScript" alt="Javascript" width="35px" src="assets/javascript.svg" />
-    <img title="Bootstrap" alt="Bootstrap" width="35px" src="assets/bootstrap.svg" />    
-    <img title="Firebase" alt="Firebase" width="35px" src="assets/firebase.svg" />
-    <img title="SQLite" alt="SQLite" width="35px" src="assets/sqlite.svg" />
-    <br/><br/> 
-    <img title="Android Studio" alt="Android Studio" width="35px" src="assets/androidstudio.svg" />
-    <img title="Visual Studio Code" alt="Visual Studio Code" width="35px" src="assets/visualstudiocode.svg" />
-    <img title="Git" alt="Git" width="35px" src="assets/git.svg" />
-    <img title="Github" alt="Github" width="35px" src="assets/github.svg" />    
-    <img title="Adobe Photoshop" alt="Adobe Photoshop" width="35px" src="assets/adobephotoshop.svg" />
-    <img title="Adobe Illustrator" alt="Adobe Illustrator" width="35px" src="assets/adobeillustrator.svg" />
-    <img title="Adobe After Effects" alt="Adobe After Effects" width="35px" src="assets/adobeaftereffects.svg" />
-    <img title="Adobe Premiere" alt="Adobe Premiere" width="35px" src="assets/adobepremierepro.svg" />
-    <br/>
-</div>
 
-<p align="center">
+<h2></h2>
 
-<h3 align="center">⭐ GitHub Stats</h3>
+</div>&nbsp;
 
-<p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramirjunior&langs_count=8&layout=compact&theme=blueberry" alt="Ramir Junior :: Top Langs" />
-    <img src="https://github-readme-stats.vercel.app/api?username=ramirjunior&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" alt="Ramir Junior :: Top Langs" />
-</p>
-<h3>Saiba mais</h3> 
+<div align="center">
+<br><p align="centre"><b>Visitor Counter</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RamirJunior}/count.svg" /></p> 
+<br></div>
 
-<details>
-
-## Educação
-
-- 📖 **Sistemas de Informação**
-
-  📆 Formação 2023
-
-  📍 **PUC Minas São Gabriel** - Belo Horizonte, Minas Gerais, Brasil
-
-
-
-## Idiomas
-
-- :us: Inglês
-
-  :arrow_upper_right: Intermediário
-
-   
-
-- :es: Espanhol
-
-  :arrow_upper_right: Intermediário
-  
-  </details>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f9d58&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
