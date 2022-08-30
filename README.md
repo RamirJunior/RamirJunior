@@ -72,7 +72,10 @@
 
 </div>&nbsp;
 
-#### I speak :brazil: Brazilian Portuguese fluently, :us: English (A2) and :es: Spanish (A2).
+#### I speak:
+- :brazil: Brazilian Portuguese (native);
+- :us: English (A2);
+- :es: Spanish (A2).
 
 <div style="display: inline-block"; align="center">
 <h2>Redes Sociais:</h2>
