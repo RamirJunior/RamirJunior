@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=Wave&color=0f9d58&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>&nbsp;
+<img width=100% src="https://capsule-render.vercel.app/api?type=Wave&color=ff4040&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>&nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0f9d58&size=35&center=true&vCenter=true&width=1000&lines=Hey+what's+up?;My+name+is+Ramir+Jr.;I'm+a+passionate+Android+developer.;I'm+a+brazilian+Information+System+student+too.;You+are+welcome+to+my+Github+profile+:%29)](https://git.io/typing-svg)&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4040&size=35&center=true&vCenter=true&width=1000&lines=Hey+what's+up?+My+name+is+Ramir+Jr.;I'm+a+passionate+Android+developer.;I'm+a+brazilian+Information+System+student+too.;You+are+welcome+to+my+Github+profile+:%29)](https://git.io/typing-svg)&nbsp;
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RamirJunior&show_icons=true&count_private=true&hide_border=true&title_color=0f9d58&icon_color=0f9d58&text_color=c9d1d9&bg_color=0d1117" alt="Emerson Pereira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamirJunior&layout=compact&hide_border=true&title_color=0f9d58&text_color=0f9d58&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RamirJunior&show_icons=true&count_private=true&hide_border=true&title_color=ff4040&icon_color=ff4040&text_color=c9d1d9&bg_color=0d1117" alt="Ramir Junior github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamirJunior&layout=compact&hide_border=true&title_color=ff4040text_color=ff4040&bg_color=0d1117" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RamirJunior&theme=dark)](https://git.io/streak-stats)
 </div>&nbsp;
@@ -91,8 +91,6 @@
   <a href="https://www.facebook.com/junior.ribeiro0/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/junior.ribeiro0/"/></a><br/>
 
-<h2></h2>
-
 </div>&nbsp;
 
 <div align="center">
@@ -100,4 +98,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{RamirJunior}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f9d58&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff4040&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
