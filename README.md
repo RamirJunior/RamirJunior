@@ -43,8 +43,6 @@
 
 <img align = "center" alt="html5" src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117">
 
-<img align = "center" alt="html5" src="https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=8317e1">
-
 </div>&nbsp;
 
 ### Knowledge:
@@ -74,7 +72,7 @@
 
 </div>&nbsp;
 
-#### I spoke Portuguess fluently, English (A2) and Spanish (A2)
+#### I speak Portuguese fluently, English (A2) and Spanish (A2).
 
 <div style="display: inline-block"; align="center">
 <h2>Redes Sociais:</h2>
