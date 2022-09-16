@@ -5,8 +5,8 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RamirJunior&show_icons=true&count_private=true&hide_border=true&title_color=ff4040&icon_color=ff4040&text_color=c9d1d9&bg_color=0d1117" alt="Ramir Junior github stats" />  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamirJunior&layout=compact&hide_border=true&title_color=ff4040text_color=ff4040&bg_color=0d1117" /> 
-  <img align = "center" style="max-width: 50%;" title="Welcome to my profile" src="assets/icon-profile.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align = "center" style="max-width: 100%;" title="Welcome to my profile" src="https://github-readme-streak-stats.herokuapp.com/?user=RamirJunior&theme=dark">
+  <img align = "center" style="max-width: 50%;" title="How can I help you? Let's talk about" src="assets/icon-profile.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align = "center" style="max-width: 100%;" title="Ramir Junior Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=RamirJunior&theme=dark">
 
 </div>&nbsp;
 
