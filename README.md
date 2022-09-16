@@ -95,9 +95,5 @@
 
 </div>&nbsp;
 
-<div align="center">
-<br><p align="centre"><b>Visitor Counter</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RamirJunior}/count.svg" /></p> 
-<br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff4040&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
