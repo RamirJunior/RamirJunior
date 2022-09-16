@@ -1,12 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=Wave&color=ff4040&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>&nbsp;
+<img width=100% src="https://capsule-render.vercel.app/api?type=Wave&color=ff4040&height=120&section=header&text=&fontSize=18&fontColor=fff&animation=twinkling&fontAlignY=15"/>&nbsp;
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4040&size=35&center=true&vCenter=true&width=1000&lines=Hey+what's+up?+My+name+is+Ramir+Jr.;I'm+a+passionate+Android+developer.;I'm+a+brazilian+Information+System+student+too.;You+are+welcome+to+my+Github+profile+:%29)](https://git.io/typing-svg)&nbsp;
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RamirJunior&show_icons=true&count_private=true&hide_border=true&title_color=ff4040&icon_color=ff4040&text_color=c9d1d9&bg_color=0d1117" alt="Ramir Junior github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamirJunior&layout=compact&hide_border=true&title_color=ff4040text_color=ff4040&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RamirJunior&show_icons=true&count_private=true&hide_border=true&title_color=ff4040&icon_color=ff4040&text_color=c9d1d9&bg_color=0d1117" alt="Ramir Junior github stats" />  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamirJunior&layout=compact&hide_border=true&title_color=ff4040text_color=ff4040&bg_color=0d1117" /> 
+  <img align = "center" style="max-width: 50%;" title="Welcome to my profile" src="assets/icon-profile.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align = "center" style="max-width: 100%;" title="Welcome to my profile" src="https://github-readme-streak-stats.herokuapp.com/?user=RamirJunior&theme=dark">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RamirJunior&theme=dark)](https://git.io/streak-stats)
 </div>&nbsp;
 
 
