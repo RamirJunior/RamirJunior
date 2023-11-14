@@ -4,21 +4,22 @@
 
 
 #### Skills:
-  ![](https://img.shields.io/badge/Kotlin-black?logo=kotlin)
-  ![](https://img.shields.io/badge/Android-black?logo=android)
-  ![](https://img.shields.io/badge/Java17+-black?logo=Java)
-  ![](https://img.shields.io/badge/Springboot-black?logo=spring)
-  <br/>
+<h2>
+  <img src="https://img.shields.io/badge/Kotlin-Programming-emerald?logo=kotlin" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android-Framework-emerald?logo=android" alt="Android" />
+  <img src="https://img.shields.io/badge/Java&nbsp;17+-Programming-emerald?logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/Springboot-Framework-emerald?logo=spring" alt="Springboot" />
+</h2>
   
-  ![](https://img.shields.io/badge/MVVM-Arch-emerald)
-  ![](https://img.shields.io/badge/MVC-Arch-emerald)
-  ![](https://img.shields.io/badge/Git&nbsp;Gitflow-VCS-emerald)
-  ![](https://img.shields.io/badge/Clean&nbsp;Code-Principles-emerald)
-  ![](https://img.shields.io/badge/Retrofit-API&nbsp;Consumption-emerald)
-  ![](https://img.shields.io/badge/Koin-Dependency&nbsp;Injection-emerald)
-  ![](https://img.shields.io/badge/Jetpack&nbsp;Components-Android&nbsp;Core-emerald)
-  ![](https://img.shields.io/badge/Room&nbsp;SQLite-Database-emerald)
-  ![](https://img.shields.io/badge/Coroutines-Async&nbsp;Performs-emerald)
+  ![](https://img.shields.io/badge/MVVM-Arch-black)
+  ![](https://img.shields.io/badge/MVC-Arch-black)
+  ![](https://img.shields.io/badge/Git&nbsp;Gitflow-VCS-black)
+  ![](https://img.shields.io/badge/Clean&nbsp;Code-Principles-black)
+  ![](https://img.shields.io/badge/Retrofit-API&nbsp;Consumption-black)
+  ![](https://img.shields.io/badge/Koin-Dependency&nbsp;Injection-black)
+  ![](https://img.shields.io/badge/Jetpack&nbsp;Components-Android&nbsp;Core-black)
+  ![](https://img.shields.io/badge/Room&nbsp;SQLite-Database-black)
+  ![](https://img.shields.io/badge/Coroutines-Async&nbsp;Performs-black)
   <br/>
   
   ![](https://img.shields.io/badge/CI&nbsp;CD-Pipelines-purple)
