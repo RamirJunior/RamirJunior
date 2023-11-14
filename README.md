@@ -3,45 +3,84 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4040&size=35&center=true&vCenter=true&width=1200&lines=Hey+everyone,+Welcome+to+my+Github+profile.;I'm+Ramir+Jr+and+I+am+very+passionate+with+development.;+I+have+some+practicing+projects+right+here,+check+it+out!)](https://git.io/typing-svg)&nbsp;
 
 
-#### Main skills:
-<div style="display: inline-block">
-  <img align = "center" alt="html5" src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117">
-  <img align = "center" alt="html5" src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=1D6346">
-  <img align = "center" alt="html5" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align = "center" alt="html5" src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=Firebase&logoColor=039BE5">
-  <img align = "center" alt="html5" src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117">
-</div>&nbsp;
+#### Skills:
+  ![](https://img.shields.io/badge/Kotlin-black?logo=kotlin)
+  ![](https://img.shields.io/badge/Android-black?logo=android)
+  ![](https://img.shields.io/badge/Java17+-black?logo=Java)
+  ![](https://img.shields.io/badge/Springboot-black?logo=spring)
+  <br/>
+  
+  ![](https://img.shields.io/badge/MVVM-Arch-emerald)
+  ![](https://img.shields.io/badge/MVC-Arch-emerald)
+  ![](https://img.shields.io/badge/Git&nbsp;Gitflow-VCS-emerald)
+  ![](https://img.shields.io/badge/Clean&nbsp;Code-Principles-emerald)
+  ![](https://img.shields.io/badge/Retrofit-API&nbsp;Consumption-emerald)
+  ![](https://img.shields.io/badge/Koin-Dependency&nbsp;Injection-emerald)
+  ![](https://img.shields.io/badge/Jetpack&nbsp;Components-Android&nbsp;Core-emerald)
+  ![](https://img.shields.io/badge/Room&nbsp;SQLite-Database-emerald)
+  ![](https://img.shields.io/badge/Coroutines-Async&nbsp;Performs-emerald)
+  <br/>
+  
+  ![](https://img.shields.io/badge/CI&nbsp;CD-Pipelines-purple)
+  ![](https://img.shields.io/badge/Canary-Deployment-purple)
+  ![](https://img.shields.io/badge/PostgreSQL-Database-purple)
+  ![](https://img.shields.io/badge/MySQL-Database-purple)
+  ![](https://img.shields.io/badge/Remote&nbsp;Configs&nbsp;|&nbsp;Firebase-Database-purple)
+  ![](https://img.shields.io/badge/RealTime&nbsp;|&nbsp;Firebase-Database-purple)
+  ![](https://img.shields.io/badge/Maven-Dependency&nbsp;Management-purple)
+  ![](https://img.shields.io/badge/Gradle-Dependency&nbsp;Management-purple)
+
+<details>
+<summary>More skills</summary>
+<br />
+
+### Code
+![](https://img.shields.io/badge/Code-Javascript-blue)
+![](https://img.shields.io/badge/Code-Csharp-blue)
+![](https://img.shields.io/badge/Code-C-blue)
+![](https://img.shields.io/badge/Code-Golang-blue)
+![](https://img.shields.io/badge/Code-SQL-blue)
+
+### Frameworks
+![](https://img.shields.io/badge/Frameworks-Springboot-orange)
+![](https://img.shields.io/badge/Frameworks-Bootstrap-orange)
 
 
-### IDE/Tools:
-<div style="display: inline-block">
-  <img align = "center" alt="html5" src="https://img.shields.io/badge/Android%20Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=0f9d58">
-  <img align = "center" alt="html5" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-  <img align = "center" alt="html5" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117">
-  <img align = "center" alt="html5" src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117">
-</div> &nbsp;
+### Testing
+![](https://img.shields.io/badge/Testing-Unit&nbsp;Tests-pink)
+![](https://img.shields.io/badge/Testing-JUnit5-pink)
+![](https://img.shields.io/badge/Testing-Mockito-pink)
+
+### Tools
+![](https://img.shields.io/badge/Tools-AndroidStudio-red)
+![](https://img.shields.io/badge/Tools-IntelliJ-red)
+![](https://img.shields.io/badge/Tools-VSCode-red)
+![](https://img.shields.io/badge/Tools-NPM-red)
+![](https://img.shields.io/badge/Tools-Docker-red)
+![](https://img.shields.io/badge/Tools-GitLab-red)
+![](https://img.shields.io/badge/Tools-Jira-red)
+![](https://img.shields.io/badge/Tools-Figma-red)
 
 
-### Knowledge:
-<div style="display: inline-block">
-  <img align = "center" alt="html5" src="https://img.shields.io/badge/Postgresql-0D1117?style=for-the-badge&logo=postgresql&logoColor=1b7fac">
-  <img align = "center" alt="html5" src="https://img.shields.io/badge/c%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=239120">
-  <img align = "center" alt="html5" src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37">
-  <img align = "center" alt="html5" src="https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=6DA55F">
-  <img align = "center" alt="html5" src="https://img.shields.io/badge/bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=purple">
-</div> &nbsp;
+### Processes
+![](https://img.shields.io/badge/Processes-Scrum-yellowgreen)
+![](https://img.shields.io/badge/Processes-Agile-yellowgreen)
+![](https://img.shields.io/badge/Processes-Kanban-yellowgreen)
 
 
-#### I speak:
-- :brazil: Brazilian Portuguese (native);
-- :us: English intermediate (B1);
-- :es: Spanish basic (A2).
+### Spoken languages:
+- :brazil: ![](https://img.shields.io/badge/Portuguese-Native-brown)
+- :us: ![](https://img.shields.io/badge/English-Intermediate&nbsp;B1-brown)
+- :es: ![](https://img.shields.io/badge/Spanish-Basic&nbsp;A2-brown)
 
+</details>
 
-### Hard Experience with UI software:
-<div style="display: inline-block">
-  <img align = "center" alt="html5" src="https://img.shields.io/badge/adobe%20photoshop-0D1117?style=for-the-badge&logo=adobe%20photoshop&logoColor=31A8FF">
-  <img align = "center" alt="html5" src="https://img.shields.io/badge/adobe%20illustrator-0D1117?style=for-the-badge&logo=adobe%20illustrator&logoColor=FF9A00">
-  <img align = "center" alt="html5" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-0D1117?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=9999FF">
-  <img align = "center" alt="html5" src="https://img.shields.io/badge/Adobe%20After%20Effects-0D1117?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=9999FF">
-</div> &nbsp;
+## Connect with me
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/jrhdl)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=white)](https://www.instagram.com/junior_rbeiro)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ramirjunior-/)
+
+## Original Content
+<!-- BLOG-POST-LIST:START -->
+- Only PT-BR -> [Padrão de projeto Builder com exemplo em Java](https://www.linkedin.com/pulse/padr%C3%A3o-de-projeto-builder-com-exemplo-em-java-ramir-junior-/)
+<!-- BLOG-POST-LIST:END -->
