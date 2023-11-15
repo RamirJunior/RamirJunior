@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4040&size=35&center=true&vCenter=true&width=1200&lines=Hey+everyone,+Welcome+to+my+Github+profile.;I'm+Ramir+Jr+and+I+am+very+passionate+with+development.;+I+have+some+practicing+projects+right+here,+check+it+out!)](https://git.io/typing-svg)&nbsp;
 
 
-#### Skills:
+## Skills:
 <h2>
   <img src="https://img.shields.io/badge/Kotlin-Programming-emerald?logo=kotlin" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Android-Framework-emerald?logo=android" alt="Android" />
