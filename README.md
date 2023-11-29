@@ -31,8 +31,11 @@
   ![](https://img.shields.io/badge/Maven-Dependency&nbsp;Management-purple)
   ![](https://img.shields.io/badge/Gradle-Dependency&nbsp;Management-purple)
 
+:bookmark_tabs:Here my [English Resume](https://drive.google.com/file/d/1_eIihWvlUMQfwtztExWbQGbeLyGrhehO/view?usp=sharing)
+or [Portuguese Resume]().
+
 <details>
-<summary>More skills</summary>
+<summary><a>More skills - click here</a></summary>
 <br />
 
 ### Code
@@ -45,7 +48,6 @@
 ### Frameworks
 ![](https://img.shields.io/badge/Frameworks-Springboot-orange)
 ![](https://img.shields.io/badge/Frameworks-Bootstrap-orange)
-
 
 ### Testing
 ![](https://img.shields.io/badge/Testing-Unit&nbsp;Tests-pink)
@@ -62,19 +64,17 @@
 ![](https://img.shields.io/badge/Tools-Jira-red)
 ![](https://img.shields.io/badge/Tools-Figma-red)
 
-
 ### Processes
 ![](https://img.shields.io/badge/Processes-Scrum-yellowgreen)
 ![](https://img.shields.io/badge/Processes-Agile-yellowgreen)
 ![](https://img.shields.io/badge/Processes-Kanban-yellowgreen)
 
+</details>
 
 ### Spoken languages:
 - :brazil: ![](https://img.shields.io/badge/Portuguese-Native-brown)
 - :us: ![](https://img.shields.io/badge/English-Intermediate&nbsp;B1-brown)
 - :es: ![](https://img.shields.io/badge/Spanish-Basic&nbsp;A2-brown)
-
-</details>
 
 ## Connect with me
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/jrhdl)
@@ -83,5 +83,5 @@
 
 ## Original Content
 <!-- BLOG-POST-LIST:START -->
-- Only PT-BR -> [Padrão de projeto Builder com exemplo em Java](https://www.linkedin.com/pulse/padr%C3%A3o-de-projeto-builder-com-exemplo-em-java-ramir-junior-/)
+- Only PT-BR -> [Builder design pattern in Java with example](https://www.linkedin.com/pulse/padr%C3%A3o-de-projeto-builder-com-exemplo-em-java-ramir-junior-/)
 <!-- BLOG-POST-LIST:END -->
