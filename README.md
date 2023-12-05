@@ -32,7 +32,7 @@
   ![](https://img.shields.io/badge/Gradle-Dependency&nbsp;Management-purple)
 
 :bookmark_tabs:Here my [English Resume](https://drive.google.com/file/d/1_eIihWvlUMQfwtztExWbQGbeLyGrhehO/view?usp=sharing)
-or [Portuguese Resume](https://github.com/RamirJunior).
+or [Portuguese Resume](https://drive.google.com/file/d/1Q1mFY-rOF5cR4ZcsiCFZ_irQ1LjzYDu_/view?usp=sharing).
 
 <details>
 <summary><a>More skills - click here</a></summary>
