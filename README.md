@@ -1,9 +1,14 @@
 <img src="https://github.com/RamirJunior/RamirJunior/blob/master/assets/github_cover.png" alt="Dark blue background banner, in the upper right corner, icon for social networks LinkedIn and Instagram with the user next to @junior_rbeiro. Below in Brazilian Portuguese: Hi, I'm Ramir Junior, Java Kotlin developer."/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4040&size=35&center=true&vCenter=true&width=1200&lines=Hey+everyone,+Welcome+to+my+Github+profile.;I'm+Ramir+Jr+and+I+am+very+passionate+with+development.;+I+have+some+practicing+projects+right+here,+check+it+out!)](https://git.io/typing-svg)&nbsp;
+```
+Bem vindo / Welcome
+
+Sou desenvolvedor Java e este é o meu perfil onde compartilho alguns dos meus projetos práticos. 
+Fique a vontade para explorar e se precisar entre em contato.
+```
 
 
-## Skills:
+Skills:
 <h2>
   <img src="https://img.shields.io/badge/Kotlin-Programming-emerald?logo=kotlin" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Android-Framework-emerald?logo=android" alt="Android" />
@@ -31,30 +36,28 @@
   ![](https://img.shields.io/badge/Maven-Dependency&nbsp;Management-purple)
   ![](https://img.shields.io/badge/Gradle-Dependency&nbsp;Management-purple)
 
-:bookmark_tabs:Here my [English Resume](https://drive.google.com/file/d/1_eIihWvlUMQfwtztExWbQGbeLyGrhehO/view?usp=sharing)
-or [Portuguese Resume](https://drive.google.com/file/d/1nuX_WUS8FRk7sXIYZzMmMlDzwH9wAdB0/view?usp=sharing).
 
 <details>
 <summary><a>More skills - click here</a></summary>
 <br />
 
-### Code
+Code
 ![](https://img.shields.io/badge/Code-Javascript-blue)
 ![](https://img.shields.io/badge/Code-Csharp-blue)
 ![](https://img.shields.io/badge/Code-C-blue)
 ![](https://img.shields.io/badge/Code-Golang-blue)
 ![](https://img.shields.io/badge/Code-SQL-blue)
 
-### Frameworks
+Frameworks
 ![](https://img.shields.io/badge/Frameworks-Springboot-orange)
 ![](https://img.shields.io/badge/Frameworks-Bootstrap-orange)
 
-### Testing
+Testing
 ![](https://img.shields.io/badge/Testing-Unit&nbsp;Tests-pink)
 ![](https://img.shields.io/badge/Testing-JUnit5-pink)
 ![](https://img.shields.io/badge/Testing-Mockito-pink)
 
-### Tools
+Tools
 ![](https://img.shields.io/badge/Tools-AndroidStudio-red)
 ![](https://img.shields.io/badge/Tools-IntelliJ-red)
 ![](https://img.shields.io/badge/Tools-VSCode-red)
@@ -64,24 +67,24 @@ or [Portuguese Resume](https://drive.google.com/file/d/1nuX_WUS8FRk7sXIYZzMmMlDz
 ![](https://img.shields.io/badge/Tools-Jira-red)
 ![](https://img.shields.io/badge/Tools-Figma-red)
 
-### Processes
+Processes
 ![](https://img.shields.io/badge/Processes-Scrum-yellowgreen)
 ![](https://img.shields.io/badge/Processes-Agile-yellowgreen)
 ![](https://img.shields.io/badge/Processes-Kanban-yellowgreen)
 
 </details>
 
-### Spoken languages:
-- :brazil: ![](https://img.shields.io/badge/Portuguese-Native-brown)
+Spoken languages:
 - :us: ![](https://img.shields.io/badge/English-Intermediate&nbsp;B1-brown)
 - :es: ![](https://img.shields.io/badge/Spanish-Basic&nbsp;A2-brown)
+- :brazil: ![](https://img.shields.io/badge/Portuguese-Native-brown)
 
-## Connect with me
+Connect with me
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/jrhdl)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=white)](https://www.instagram.com/junior_rbeiro)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ramirjunior-/)
 
-## Original Content
+Original Content
 <!-- BLOG-POST-LIST:START -->
-- Only PT-BR -> [Builder design pattern in Java with example](https://www.linkedin.com/pulse/padr%C3%A3o-de-projeto-builder-com-exemplo-em-java-ramir-junior-/)
+- Available PT-BR -> [Builder design pattern in Java with example](https://www.linkedin.com/pulse/padr%C3%A3o-de-projeto-builder-com-exemplo-em-java-ramir-junior-/)
 <!-- BLOG-POST-LIST:END -->
