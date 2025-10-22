@@ -39,7 +39,6 @@ Spoken languages:
 - :brazil: ![](https://img.shields.io/badge/Portuguese-Native-brown)
 
 Connect with me
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/jrhdl)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=white)](https://www.instagram.com/junior_rbeiro)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ramirjunior-/)
 
