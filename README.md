@@ -8,8 +8,6 @@ Fique a vontade para explorar e se precisar entre em contato.
 
 Skills:
 <h2>
-  <img src="https://img.shields.io/badge/Kotlin-Programming-emerald?logo=kotlin" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Android-Framework-emerald?logo=android" alt="Android" />
   <img src="https://img.shields.io/badge/Java&nbsp;17+-Programming-emerald?logo=java" alt="Java" />
   <img src="https://img.shields.io/badge/Springboot-Framework-emerald?logo=spring" alt="Springboot" />
 </h2>
@@ -42,8 +40,6 @@ Skills:
 Code
 ![](https://img.shields.io/badge/Code-Javascript-blue)
 ![](https://img.shields.io/badge/Code-Csharp-blue)
-![](https://img.shields.io/badge/Code-C-blue)
-![](https://img.shields.io/badge/Code-Golang-blue)
 ![](https://img.shields.io/badge/Code-SQL-blue)
 
 Frameworks
@@ -59,7 +55,6 @@ Tools
 ![](https://img.shields.io/badge/Tools-AndroidStudio-red)
 ![](https://img.shields.io/badge/Tools-IntelliJ-red)
 ![](https://img.shields.io/badge/Tools-VSCode-red)
-![](https://img.shields.io/badge/Tools-NPM-red)
 ![](https://img.shields.io/badge/Tools-Docker-red)
 ![](https://img.shields.io/badge/Tools-GitLab-red)
 ![](https://img.shields.io/badge/Tools-Jira-red)
