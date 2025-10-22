@@ -33,40 +33,6 @@ Skills:
   ![](https://img.shields.io/badge/Gradle-Dependency&nbsp;Management-purple)
 
 
-<details>
-<summary><a>More skills - click here</a></summary>
-<br />
-
-Code
-![](https://img.shields.io/badge/Code-Javascript-blue)
-![](https://img.shields.io/badge/Code-Csharp-blue)
-![](https://img.shields.io/badge/Code-SQL-blue)
-
-Frameworks
-![](https://img.shields.io/badge/Frameworks-Springboot-orange)
-![](https://img.shields.io/badge/Frameworks-Bootstrap-orange)
-
-Testing
-![](https://img.shields.io/badge/Testing-Unit&nbsp;Tests-pink)
-![](https://img.shields.io/badge/Testing-JUnit5-pink)
-![](https://img.shields.io/badge/Testing-Mockito-pink)
-
-Tools
-![](https://img.shields.io/badge/Tools-AndroidStudio-red)
-![](https://img.shields.io/badge/Tools-IntelliJ-red)
-![](https://img.shields.io/badge/Tools-VSCode-red)
-![](https://img.shields.io/badge/Tools-Docker-red)
-![](https://img.shields.io/badge/Tools-GitLab-red)
-![](https://img.shields.io/badge/Tools-Jira-red)
-![](https://img.shields.io/badge/Tools-Figma-red)
-
-Processes
-![](https://img.shields.io/badge/Processes-Scrum-yellowgreen)
-![](https://img.shields.io/badge/Processes-Agile-yellowgreen)
-![](https://img.shields.io/badge/Processes-Kanban-yellowgreen)
-
-</details>
-
 Spoken languages:
 - :us: ![](https://img.shields.io/badge/English-Intermediate&nbsp;B1-brown)
 - :es: ![](https://img.shields.io/badge/Spanish-Basic&nbsp;A2-brown)
