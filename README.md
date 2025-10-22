@@ -1,5 +1,3 @@
-<img src="https://github.com/RamirJunior/RamirJunior/blob/master/assets/github_cover.png" alt="Dark blue background banner, in the upper right corner, icon for social networks LinkedIn and Instagram with the user next to @junior_rbeiro. Below in Brazilian Portuguese: Hi, I'm Ramir Junior, Java Kotlin developer."/>
-
 ```
 Bem vindo / Welcome
 
